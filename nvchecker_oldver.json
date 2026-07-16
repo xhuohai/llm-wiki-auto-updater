@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "llm-wiki-bin": {
-      "version": "0.6.3",
-      "gitref": "refs/tags/v0.6.3",
-      "url": "https://github.com/nashsu/llm_wiki/releases/tag/v0.6.3"
+      "version": "0.6.4",
+      "gitref": "refs/tags/v0.6.4",
+      "url": "https://github.com/nashsu/llm_wiki/releases/tag/v0.6.4"
     }
   }
 }
